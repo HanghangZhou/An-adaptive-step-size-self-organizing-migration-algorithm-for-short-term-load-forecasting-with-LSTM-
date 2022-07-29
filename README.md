@@ -1,7 +1,7 @@
 # An-adaptive-step-size-self-organizing-migration-algorithm-for-short-term-load-forecasting-with-LSTM-
 An adaptive step size self-organizing migration algorithm for short-term load forecasting with LSTM structure optimization 
-MATLAB VERSION 2018
-The Python environment is configured as follows:
+MATLAB version is 2018
+The Python environment is configured as environment.yaml:
 name: cpu1
 channels:
   - https://mirrors.ustc.edu.cn/anaconda/pkgs/main/
